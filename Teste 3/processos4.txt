@@ -1,0 +1,12 @@
+O processo 1 escreve nesse arquivo às 23:33:53:007 
+O processo 2 escreve nesse arquivo às 23:33:53:007 
+O processo 3 escreve nesse arquivo às 23:33:53:007 
+O processo 4 escreve nesse arquivo às 23:33:53:007 
+O processo 1 escreve nesse arquivo às 23:33:53:007 
+O processo 2 escreve nesse arquivo às 23:33:53:007 
+O processo 3 escreve nesse arquivo às 23:33:53:007 
+O processo 4 escreve nesse arquivo às 23:33:53:007 
+O processo 1 escreve nesse arquivo às 23:33:53:007 
+O processo 2 escreve nesse arquivo às 23:33:53:007 
+O processo 3 escreve nesse arquivo às 23:33:53:007 
+O processo 4 escreve nesse arquivo às 23:33:53:007 

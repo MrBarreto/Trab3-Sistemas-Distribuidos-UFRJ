@@ -1,0 +1,6 @@
+O processo 1 escreve nesse arquivo às 23:32:21:007 
+O processo 2 escreve nesse arquivo às 23:32:21:007 
+O processo 1 escreve nesse arquivo às 23:32:21:007 
+O processo 2 escreve nesse arquivo às 23:32:21:007 
+O processo 1 escreve nesse arquivo às 23:32:21:007 
+O processo 2 escreve nesse arquivo às 23:32:21:007 
