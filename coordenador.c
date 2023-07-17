@@ -119,14 +119,6 @@ void *socket_listening(node ** queue){
         idn = atoi(ids);
         memset(ids, '\0', sizeof(ids));
         if (process_message[0] == '1'){
-        /*   
-            int k = 0;
-            for (int i = 2; process_message[i] != '|'; i++){
-                ids[k] = process_message[i];
-                k+=1;
-            }
-            idn = atoi(ids);
-        */ 
             while (atomic_flag_test_and_set(&lock3));
             write_log(1, idn);
             atomic_flag_clear(&lock3);
@@ -194,7 +186,7 @@ void *terminal(node ** queue){
             break;
         }
     }
-    printf("Terminal rodou\n");
+    printf("Terminal encerrado\n");
 }
 
 void *grant_send(node ** queue){
@@ -226,7 +218,7 @@ void *grant_send(node ** queue){
                 sendto(descriptor, coordinator_message, strlen(coordinator_message), 0, (struct sockaddr*)&client_addr, client_struct_length);
             }
         }
-    printf("Grant rodou\n");
+    printf("Grant encerrado\n");
 }
 
 void thread_creation(node ** queue, pthread_t *threads)
