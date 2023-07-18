@@ -61,21 +61,24 @@ int rem(node ** head){
 }
 
 void write_log(int message, int id){
-    char time_str[20];
+    char time_str[26]; 
+    struct timeval tv;
     struct tm *timeinfo;
-    time_t rawtime;
-    time(&rawtime);
-    timeinfo = localtime(&rawtime);
-    strftime(time_str, sizeof(time_str), "%H:%M:%S:%03m", timeinfo);
+    gettimeofday(&tv, NULL);
+    timeinfo = localtime(&tv.tv_sec);
+    strftime(time_str, sizeof(time_str), "%H:%M:%S", timeinfo);
+    char milliseconds[5];
+    sprintf(milliseconds, ":%03ld", tv.tv_usec / 1000);
+    strcat(time_str, milliseconds);
     FILE *file = fopen("log.txt", "a");
     if(message == 1){
-        fprintf(file, "O processo %i enviou uma mensagem de Request ao coordenador às  %s \n", id, time_str);
+        fprintf(file, "%s - %i - [R] Request \n", time_str, id);
     }
      else if (message == 2){
-        fprintf(file, "O coordenador enviou uma mensagem de Grant ao processo %i às  %s \n", id, time_str);
+        fprintf(file, "%s - %i - [S] Grant \n", time_str, id);
     }
     else if (message == 3){
-        fprintf(file, "O processo %i enviou uma mensagem de Release ao coordenador às  %s \n", id, time_str);
+        fprintf(file, "%s - %i - [R] Release \n", time_str, id);
     }
     fclose(file);
 }
