@@ -15,17 +15,6 @@ atomic_flag lock = ATOMIC_FLAG_INIT;
 atomic_flag lock2 = ATOMIC_FLAG_INIT;
 atomic_flag lock3 = ATOMIC_FLAG_INIT;
 
-
-void acquire()
-{
-    
-}
-
-void release()
-{
-
-}
-
 typedef struct node {
         int val;
         struct node * next;
@@ -95,9 +84,8 @@ void *socket_listening(node ** queue){
     int idn;
     struct sockaddr_in client_addr;
     int client_struct_length = sizeof(client_addr);
-    char ids[10], coordinator_message[2000], process_message[10];
-    memset(coordinator_message, '\0', sizeof(coordinator_message));
-    memset(process_message, '\0', sizeof(coordinator_message));
+    char ids[10], process_message[10];
+    memset(process_message, '\0', sizeof(process_message));
     memset(ids, '\0', sizeof(ids));
     while (running)
     {   

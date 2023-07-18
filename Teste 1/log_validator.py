@@ -1,5 +1,5 @@
-def validate():
-    f = open("log.txt", "r")
+def validate(var):
+    f = open(var, "r")
     lines = f.readlines()
     requests = []
     grants = []
@@ -29,5 +29,7 @@ def validate():
 
     print("Log file was successfully validated")
 
-if __name__ == "__main__":
-    validate()
+logs = ["log2.txt", "log4.txt", "log8.txt", "log16.txt", "log32.txt"]
+for archive in logs:
+    print(f"Validating {archive}")
+    validate(archive)
