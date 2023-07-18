@@ -15,14 +15,15 @@ atomic_flag lock = ATOMIC_FLAG_INIT;
 atomic_flag lock2 = ATOMIC_FLAG_INIT;
 atomic_flag lock3 = ATOMIC_FLAG_INIT;
 
+
 void acquire()
 {
-    while (atomic_flag_test_and_set(&lock));
+    
 }
 
 void release()
 {
-    atomic_flag_clear(&lock);
+
 }
 
 typedef struct node {
@@ -134,8 +135,8 @@ void *socket_listening(node ** queue){
             atomic_flag_clear(&lock2);
 
         }
-        else {
-            release();
+        else if (process_message[0] == '3') {
+            atomic_flag_clear(&lock);
             while (atomic_flag_test_and_set(&lock3));
             write_log(3, idn);
             atomic_flag_clear(&lock3);
@@ -148,14 +149,14 @@ void *socket_listening(node ** queue){
             break;
     }
     }
-    release();
+    atomic_flag_clear(&lock);
 }
 
 void *terminal(node ** queue){
     int op;
     node * current;
     while(running){
-        printf("Selecione a opção desejada:\n 1)Printa a quantidade de chamadas de cada processo\n2) Imprimir a fila de pedidos atual\n3) Parar o coordenador\n");
+        printf("Selecione a opção desejada:\n1)Printa a quantidade de chamadas de cada processo\n2) Imprimir a fila de pedidos atual\n3) Parar o coordenador\n");
         scanf("%i", &op);
         if (op == 1)
         {
@@ -181,7 +182,7 @@ void *terminal(node ** queue){
             }
             
         }
-        else{
+        else if(op == 3){
             running = 0;
             break;
         }
@@ -190,11 +191,6 @@ void *terminal(node ** queue){
 }
 
 void *grant_send(node ** queue){
-    
-    char time_str[20];
-    struct tm *timeinfo;
-    time_t rawtime;
-    
     int id, loop = 1;
     char coordinator_message[2];
     struct sockaddr_in client_addr;
@@ -211,7 +207,7 @@ void *grant_send(node ** queue){
                 client_addr.sin_family = AF_INET;
                 client_addr.sin_port = htons(sockets_ports[id]);
                 client_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
-                acquire();
+                while (atomic_flag_test_and_set(&lock));
                 while (atomic_flag_test_and_set(&lock3));
                 write_log(2, id);
                 atomic_flag_clear(&lock3);
@@ -241,7 +237,7 @@ int main(){
     server_addr.sin_port = htons(3008);
     server_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
     if(bind(descriptor, (struct sockaddr*)&server_addr, sizeof(server_addr)) < 0){
-        printf("Couldn't bind to the port\n");
+        printf("Não foi possível realizar o bind na porta.\n");
     }
     thread_creation(&queue, threads);
     printf("Encerrado\n");
