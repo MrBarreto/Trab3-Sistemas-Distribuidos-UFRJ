@@ -1,18 +1,18 @@
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:32:21:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:32:21:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:32:21:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:32:21:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:32:21:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:32:21:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:32:21:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:32:21:007 
+22:18:24:551 - 1 - [R] Request 
+22:18:24:552 - 2 - [R] Request 
+22:18:24:552 - 1 - [S] Grant 
+22:18:24:552 - 1 - [R] Release 
+22:18:24:552 - 2 - [S] Grant 
+22:18:24:552 - 1 - [R] Request 
+22:18:24:552 - 2 - [R] Release 
+22:18:24:552 - 1 - [S] Grant 
+22:18:24:553 - 2 - [R] Request 
+22:18:24:553 - 1 - [R] Release 
+22:18:24:553 - 2 - [S] Grant 
+22:18:24:553 - 1 - [R] Request 
+22:18:24:553 - 2 - [R] Release 
+22:18:24:553 - 1 - [S] Grant 
+22:18:24:553 - 2 - [R] Request 
+22:18:24:553 - 1 - [R] Release 
+22:18:24:553 - 2 - [S] Grant 
+22:18:24:553 - 2 - [R] Release 
