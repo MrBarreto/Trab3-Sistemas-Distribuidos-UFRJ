@@ -1,9 +1,10 @@
 #!/bin/bash
 
-num_executions=2 
+num_executions=128
+
 for ((i=1; i<=$num_executions; i++))
 do
-    ./agente.out $i 2 10 &  
+    ./agente.out $i 0 3 &  
 done
 
 wait  

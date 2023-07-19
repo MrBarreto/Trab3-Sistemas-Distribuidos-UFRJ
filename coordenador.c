@@ -9,7 +9,7 @@
 #include <time.h>
 
 int sockets_ports[128], views[200];
-int descriptor, running = 1, count = 0, sniffing = 1;
+int descriptor, running = 1, count = 0;
 
 atomic_flag lock = ATOMIC_FLAG_INIT;
 atomic_flag lock2 = ATOMIC_FLAG_INIT;
@@ -221,7 +221,7 @@ void thread_creation(node ** queue, pthread_t *threads)
 
 int main(){
     node* queue = NULL;
-    struct sockaddr_in server_addr, client_addr;
+    struct sockaddr_in server_addr;
     descriptor = socket(AF_INET, SOCK_DGRAM, IPPROTO_UDP);    
     pthread_t threads[2];
     server_addr.sin_family = AF_INET;

@@ -1,480 +1,480 @@
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:21:02:007 
-O processo 3 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 4 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 5 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 6 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 7 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 8 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 9 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 10 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 11 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 12 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 13 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 14 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 15 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 16 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 17 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 18 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 19 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 20 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 21 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 22 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 23 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 24 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 25 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 26 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 27 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 28 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 29 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 30 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 31 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 32 enviou uma mensagem de Request ao coordenador às  23:21:02:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:21:03:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:21:03:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:21:03:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:21:04:007 
-O coordenador enviou uma mensagem de Grant ao processo 3 às  23:21:04:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:21:04:007 
-O processo 3 enviou uma mensagem de Release ao coordenador às  23:21:05:007 
-O coordenador enviou uma mensagem de Grant ao processo 4 às  23:21:05:007 
-O processo 3 enviou uma mensagem de Request ao coordenador às  23:21:05:007 
-O processo 4 enviou uma mensagem de Release ao coordenador às  23:21:06:007 
-O coordenador enviou uma mensagem de Grant ao processo 5 às  23:21:06:007 
-O processo 4 enviou uma mensagem de Request ao coordenador às  23:21:06:007 
-O processo 5 enviou uma mensagem de Release ao coordenador às  23:21:07:007 
-O coordenador enviou uma mensagem de Grant ao processo 6 às  23:21:07:007 
-O processo 5 enviou uma mensagem de Request ao coordenador às  23:21:07:007 
-O processo 6 enviou uma mensagem de Release ao coordenador às  23:21:08:007 
-O coordenador enviou uma mensagem de Grant ao processo 7 às  23:21:08:007 
-O processo 6 enviou uma mensagem de Request ao coordenador às  23:21:08:007 
-O processo 7 enviou uma mensagem de Release ao coordenador às  23:21:09:007 
-O coordenador enviou uma mensagem de Grant ao processo 8 às  23:21:09:007 
-O processo 7 enviou uma mensagem de Request ao coordenador às  23:21:09:007 
-O processo 8 enviou uma mensagem de Release ao coordenador às  23:21:10:007 
-O coordenador enviou uma mensagem de Grant ao processo 9 às  23:21:10:007 
-O processo 8 enviou uma mensagem de Request ao coordenador às  23:21:10:007 
-O processo 9 enviou uma mensagem de Release ao coordenador às  23:21:11:007 
-O coordenador enviou uma mensagem de Grant ao processo 10 às  23:21:11:007 
-O processo 9 enviou uma mensagem de Request ao coordenador às  23:21:11:007 
-O processo 10 enviou uma mensagem de Release ao coordenador às  23:21:12:007 
-O coordenador enviou uma mensagem de Grant ao processo 11 às  23:21:12:007 
-O processo 10 enviou uma mensagem de Request ao coordenador às  23:21:12:007 
-O processo 11 enviou uma mensagem de Release ao coordenador às  23:21:13:007 
-O coordenador enviou uma mensagem de Grant ao processo 12 às  23:21:13:007 
-O processo 11 enviou uma mensagem de Request ao coordenador às  23:21:13:007 
-O processo 12 enviou uma mensagem de Release ao coordenador às  23:21:14:007 
-O coordenador enviou uma mensagem de Grant ao processo 13 às  23:21:14:007 
-O processo 12 enviou uma mensagem de Request ao coordenador às  23:21:14:007 
-O processo 13 enviou uma mensagem de Release ao coordenador às  23:21:15:007 
-O coordenador enviou uma mensagem de Grant ao processo 14 às  23:21:15:007 
-O processo 13 enviou uma mensagem de Request ao coordenador às  23:21:15:007 
-O processo 14 enviou uma mensagem de Release ao coordenador às  23:21:16:007 
-O coordenador enviou uma mensagem de Grant ao processo 15 às  23:21:16:007 
-O processo 14 enviou uma mensagem de Request ao coordenador às  23:21:16:007 
-O processo 15 enviou uma mensagem de Release ao coordenador às  23:21:17:007 
-O coordenador enviou uma mensagem de Grant ao processo 16 às  23:21:17:007 
-O processo 15 enviou uma mensagem de Request ao coordenador às  23:21:17:007 
-O processo 16 enviou uma mensagem de Release ao coordenador às  23:21:18:007 
-O coordenador enviou uma mensagem de Grant ao processo 17 às  23:21:18:007 
-O processo 16 enviou uma mensagem de Request ao coordenador às  23:21:18:007 
-O processo 17 enviou uma mensagem de Release ao coordenador às  23:21:19:007 
-O coordenador enviou uma mensagem de Grant ao processo 18 às  23:21:19:007 
-O processo 17 enviou uma mensagem de Request ao coordenador às  23:21:19:007 
-O processo 18 enviou uma mensagem de Release ao coordenador às  23:21:20:007 
-O coordenador enviou uma mensagem de Grant ao processo 19 às  23:21:20:007 
-O processo 18 enviou uma mensagem de Request ao coordenador às  23:21:20:007 
-O processo 19 enviou uma mensagem de Release ao coordenador às  23:21:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 20 às  23:21:21:007 
-O processo 19 enviou uma mensagem de Request ao coordenador às  23:21:21:007 
-O processo 20 enviou uma mensagem de Release ao coordenador às  23:21:22:007 
-O coordenador enviou uma mensagem de Grant ao processo 21 às  23:21:22:007 
-O processo 20 enviou uma mensagem de Request ao coordenador às  23:21:22:007 
-O processo 21 enviou uma mensagem de Release ao coordenador às  23:21:23:007 
-O coordenador enviou uma mensagem de Grant ao processo 22 às  23:21:23:007 
-O processo 21 enviou uma mensagem de Request ao coordenador às  23:21:23:007 
-O processo 22 enviou uma mensagem de Release ao coordenador às  23:21:24:007 
-O coordenador enviou uma mensagem de Grant ao processo 23 às  23:21:24:007 
-O processo 22 enviou uma mensagem de Request ao coordenador às  23:21:24:007 
-O processo 23 enviou uma mensagem de Release ao coordenador às  23:21:25:007 
-O coordenador enviou uma mensagem de Grant ao processo 24 às  23:21:25:007 
-O processo 23 enviou uma mensagem de Request ao coordenador às  23:21:25:007 
-O processo 24 enviou uma mensagem de Release ao coordenador às  23:21:26:007 
-O coordenador enviou uma mensagem de Grant ao processo 25 às  23:21:26:007 
-O processo 24 enviou uma mensagem de Request ao coordenador às  23:21:26:007 
-O processo 25 enviou uma mensagem de Release ao coordenador às  23:21:27:007 
-O coordenador enviou uma mensagem de Grant ao processo 26 às  23:21:27:007 
-O processo 25 enviou uma mensagem de Request ao coordenador às  23:21:27:007 
-O processo 26 enviou uma mensagem de Release ao coordenador às  23:21:28:007 
-O coordenador enviou uma mensagem de Grant ao processo 27 às  23:21:28:007 
-O processo 26 enviou uma mensagem de Request ao coordenador às  23:21:28:007 
-O processo 27 enviou uma mensagem de Release ao coordenador às  23:21:29:007 
-O coordenador enviou uma mensagem de Grant ao processo 28 às  23:21:29:007 
-O processo 27 enviou uma mensagem de Request ao coordenador às  23:21:29:007 
-O processo 28 enviou uma mensagem de Release ao coordenador às  23:21:30:007 
-O coordenador enviou uma mensagem de Grant ao processo 29 às  23:21:30:007 
-O processo 28 enviou uma mensagem de Request ao coordenador às  23:21:30:007 
-O processo 29 enviou uma mensagem de Release ao coordenador às  23:21:31:007 
-O coordenador enviou uma mensagem de Grant ao processo 30 às  23:21:31:007 
-O processo 29 enviou uma mensagem de Request ao coordenador às  23:21:31:007 
-O processo 30 enviou uma mensagem de Release ao coordenador às  23:21:32:007 
-O coordenador enviou uma mensagem de Grant ao processo 31 às  23:21:32:007 
-O processo 30 enviou uma mensagem de Request ao coordenador às  23:21:32:007 
-O processo 31 enviou uma mensagem de Release ao coordenador às  23:21:33:007 
-O coordenador enviou uma mensagem de Grant ao processo 32 às  23:21:33:007 
-O processo 31 enviou uma mensagem de Request ao coordenador às  23:21:33:007 
-O processo 32 enviou uma mensagem de Release ao coordenador às  23:21:34:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:21:34:007 
-O processo 32 enviou uma mensagem de Request ao coordenador às  23:21:34:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:21:35:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:21:35:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:21:35:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:21:36:007 
-O coordenador enviou uma mensagem de Grant ao processo 3 às  23:21:36:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:21:36:007 
-O processo 3 enviou uma mensagem de Release ao coordenador às  23:21:37:007 
-O coordenador enviou uma mensagem de Grant ao processo 4 às  23:21:37:007 
-O processo 3 enviou uma mensagem de Request ao coordenador às  23:21:37:007 
-O processo 4 enviou uma mensagem de Release ao coordenador às  23:21:38:007 
-O coordenador enviou uma mensagem de Grant ao processo 5 às  23:21:38:007 
-O processo 4 enviou uma mensagem de Request ao coordenador às  23:21:38:007 
-O processo 5 enviou uma mensagem de Release ao coordenador às  23:21:39:007 
-O coordenador enviou uma mensagem de Grant ao processo 6 às  23:21:39:007 
-O processo 5 enviou uma mensagem de Request ao coordenador às  23:21:39:007 
-O processo 6 enviou uma mensagem de Release ao coordenador às  23:21:40:007 
-O coordenador enviou uma mensagem de Grant ao processo 7 às  23:21:40:007 
-O processo 6 enviou uma mensagem de Request ao coordenador às  23:21:40:007 
-O processo 7 enviou uma mensagem de Release ao coordenador às  23:21:41:007 
-O coordenador enviou uma mensagem de Grant ao processo 8 às  23:21:41:007 
-O processo 7 enviou uma mensagem de Request ao coordenador às  23:21:41:007 
-O processo 8 enviou uma mensagem de Release ao coordenador às  23:21:42:007 
-O coordenador enviou uma mensagem de Grant ao processo 9 às  23:21:42:007 
-O processo 8 enviou uma mensagem de Request ao coordenador às  23:21:42:007 
-O processo 9 enviou uma mensagem de Release ao coordenador às  23:21:43:007 
-O coordenador enviou uma mensagem de Grant ao processo 10 às  23:21:43:007 
-O processo 9 enviou uma mensagem de Request ao coordenador às  23:21:43:007 
-O processo 10 enviou uma mensagem de Release ao coordenador às  23:21:44:007 
-O coordenador enviou uma mensagem de Grant ao processo 11 às  23:21:44:007 
-O processo 10 enviou uma mensagem de Request ao coordenador às  23:21:44:007 
-O processo 11 enviou uma mensagem de Release ao coordenador às  23:21:45:007 
-O coordenador enviou uma mensagem de Grant ao processo 12 às  23:21:45:007 
-O processo 11 enviou uma mensagem de Request ao coordenador às  23:21:45:007 
-O processo 12 enviou uma mensagem de Release ao coordenador às  23:21:46:007 
-O coordenador enviou uma mensagem de Grant ao processo 13 às  23:21:46:007 
-O processo 12 enviou uma mensagem de Request ao coordenador às  23:21:46:007 
-O processo 13 enviou uma mensagem de Release ao coordenador às  23:21:47:007 
-O coordenador enviou uma mensagem de Grant ao processo 14 às  23:21:47:007 
-O processo 13 enviou uma mensagem de Request ao coordenador às  23:21:47:007 
-O processo 14 enviou uma mensagem de Release ao coordenador às  23:21:48:007 
-O coordenador enviou uma mensagem de Grant ao processo 15 às  23:21:48:007 
-O processo 14 enviou uma mensagem de Request ao coordenador às  23:21:48:007 
-O processo 15 enviou uma mensagem de Release ao coordenador às  23:21:49:007 
-O coordenador enviou uma mensagem de Grant ao processo 16 às  23:21:49:007 
-O processo 15 enviou uma mensagem de Request ao coordenador às  23:21:49:007 
-O processo 16 enviou uma mensagem de Release ao coordenador às  23:21:50:007 
-O coordenador enviou uma mensagem de Grant ao processo 17 às  23:21:50:007 
-O processo 16 enviou uma mensagem de Request ao coordenador às  23:21:50:007 
-O processo 17 enviou uma mensagem de Release ao coordenador às  23:21:51:007 
-O coordenador enviou uma mensagem de Grant ao processo 18 às  23:21:51:007 
-O processo 17 enviou uma mensagem de Request ao coordenador às  23:21:51:007 
-O processo 18 enviou uma mensagem de Release ao coordenador às  23:21:52:007 
-O coordenador enviou uma mensagem de Grant ao processo 19 às  23:21:52:007 
-O processo 18 enviou uma mensagem de Request ao coordenador às  23:21:52:007 
-O processo 19 enviou uma mensagem de Release ao coordenador às  23:21:53:007 
-O coordenador enviou uma mensagem de Grant ao processo 20 às  23:21:53:007 
-O processo 19 enviou uma mensagem de Request ao coordenador às  23:21:53:007 
-O processo 20 enviou uma mensagem de Release ao coordenador às  23:21:54:007 
-O coordenador enviou uma mensagem de Grant ao processo 21 às  23:21:54:007 
-O processo 20 enviou uma mensagem de Request ao coordenador às  23:21:54:007 
-O processo 21 enviou uma mensagem de Release ao coordenador às  23:21:55:007 
-O coordenador enviou uma mensagem de Grant ao processo 22 às  23:21:55:007 
-O processo 21 enviou uma mensagem de Request ao coordenador às  23:21:55:007 
-O processo 22 enviou uma mensagem de Release ao coordenador às  23:21:56:007 
-O coordenador enviou uma mensagem de Grant ao processo 23 às  23:21:56:007 
-O processo 22 enviou uma mensagem de Request ao coordenador às  23:21:56:007 
-O processo 23 enviou uma mensagem de Release ao coordenador às  23:21:57:007 
-O coordenador enviou uma mensagem de Grant ao processo 24 às  23:21:57:007 
-O processo 23 enviou uma mensagem de Request ao coordenador às  23:21:57:007 
-O processo 24 enviou uma mensagem de Release ao coordenador às  23:21:58:007 
-O coordenador enviou uma mensagem de Grant ao processo 25 às  23:21:58:007 
-O processo 24 enviou uma mensagem de Request ao coordenador às  23:21:58:007 
-O processo 25 enviou uma mensagem de Release ao coordenador às  23:21:59:007 
-O coordenador enviou uma mensagem de Grant ao processo 26 às  23:21:59:007 
-O processo 25 enviou uma mensagem de Request ao coordenador às  23:21:59:007 
-O processo 26 enviou uma mensagem de Release ao coordenador às  23:22:00:007 
-O coordenador enviou uma mensagem de Grant ao processo 27 às  23:22:00:007 
-O processo 26 enviou uma mensagem de Request ao coordenador às  23:22:00:007 
-O processo 27 enviou uma mensagem de Release ao coordenador às  23:22:01:007 
-O coordenador enviou uma mensagem de Grant ao processo 28 às  23:22:01:007 
-O processo 27 enviou uma mensagem de Request ao coordenador às  23:22:01:007 
-O processo 28 enviou uma mensagem de Release ao coordenador às  23:22:02:007 
-O coordenador enviou uma mensagem de Grant ao processo 29 às  23:22:02:007 
-O processo 28 enviou uma mensagem de Request ao coordenador às  23:22:02:007 
-O processo 29 enviou uma mensagem de Release ao coordenador às  23:22:03:007 
-O coordenador enviou uma mensagem de Grant ao processo 30 às  23:22:03:007 
-O processo 29 enviou uma mensagem de Request ao coordenador às  23:22:03:007 
-O processo 30 enviou uma mensagem de Release ao coordenador às  23:22:04:007 
-O coordenador enviou uma mensagem de Grant ao processo 31 às  23:22:04:007 
-O processo 30 enviou uma mensagem de Request ao coordenador às  23:22:04:007 
-O processo 31 enviou uma mensagem de Release ao coordenador às  23:22:05:007 
-O coordenador enviou uma mensagem de Grant ao processo 32 às  23:22:05:007 
-O processo 31 enviou uma mensagem de Request ao coordenador às  23:22:05:007 
-O processo 32 enviou uma mensagem de Release ao coordenador às  23:22:06:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:22:06:007 
-O processo 32 enviou uma mensagem de Request ao coordenador às  23:22:06:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:22:07:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:22:07:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:22:07:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:22:08:007 
-O coordenador enviou uma mensagem de Grant ao processo 3 às  23:22:08:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:22:08:007 
-O processo 3 enviou uma mensagem de Release ao coordenador às  23:22:09:007 
-O coordenador enviou uma mensagem de Grant ao processo 4 às  23:22:09:007 
-O processo 3 enviou uma mensagem de Request ao coordenador às  23:22:09:007 
-O processo 4 enviou uma mensagem de Release ao coordenador às  23:22:10:007 
-O coordenador enviou uma mensagem de Grant ao processo 5 às  23:22:10:007 
-O processo 4 enviou uma mensagem de Request ao coordenador às  23:22:10:007 
-O processo 5 enviou uma mensagem de Release ao coordenador às  23:22:11:007 
-O coordenador enviou uma mensagem de Grant ao processo 6 às  23:22:11:007 
-O processo 5 enviou uma mensagem de Request ao coordenador às  23:22:11:007 
-O processo 6 enviou uma mensagem de Release ao coordenador às  23:22:12:007 
-O coordenador enviou uma mensagem de Grant ao processo 7 às  23:22:12:007 
-O processo 6 enviou uma mensagem de Request ao coordenador às  23:22:12:007 
-O processo 7 enviou uma mensagem de Release ao coordenador às  23:22:13:007 
-O coordenador enviou uma mensagem de Grant ao processo 8 às  23:22:13:007 
-O processo 7 enviou uma mensagem de Request ao coordenador às  23:22:13:007 
-O processo 8 enviou uma mensagem de Release ao coordenador às  23:22:14:007 
-O coordenador enviou uma mensagem de Grant ao processo 9 às  23:22:14:007 
-O processo 8 enviou uma mensagem de Request ao coordenador às  23:22:14:007 
-O processo 9 enviou uma mensagem de Release ao coordenador às  23:22:15:007 
-O coordenador enviou uma mensagem de Grant ao processo 10 às  23:22:15:007 
-O processo 9 enviou uma mensagem de Request ao coordenador às  23:22:15:007 
-O processo 10 enviou uma mensagem de Release ao coordenador às  23:22:16:007 
-O coordenador enviou uma mensagem de Grant ao processo 11 às  23:22:16:007 
-O processo 10 enviou uma mensagem de Request ao coordenador às  23:22:16:007 
-O processo 11 enviou uma mensagem de Release ao coordenador às  23:22:17:007 
-O coordenador enviou uma mensagem de Grant ao processo 12 às  23:22:17:007 
-O processo 11 enviou uma mensagem de Request ao coordenador às  23:22:17:007 
-O processo 12 enviou uma mensagem de Release ao coordenador às  23:22:18:007 
-O coordenador enviou uma mensagem de Grant ao processo 13 às  23:22:18:007 
-O processo 12 enviou uma mensagem de Request ao coordenador às  23:22:18:007 
-O processo 13 enviou uma mensagem de Release ao coordenador às  23:22:19:007 
-O coordenador enviou uma mensagem de Grant ao processo 14 às  23:22:19:007 
-O processo 13 enviou uma mensagem de Request ao coordenador às  23:22:19:007 
-O processo 14 enviou uma mensagem de Release ao coordenador às  23:22:20:007 
-O coordenador enviou uma mensagem de Grant ao processo 15 às  23:22:20:007 
-O processo 14 enviou uma mensagem de Request ao coordenador às  23:22:20:007 
-O processo 15 enviou uma mensagem de Release ao coordenador às  23:22:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 16 às  23:22:21:007 
-O processo 15 enviou uma mensagem de Request ao coordenador às  23:22:21:007 
-O processo 16 enviou uma mensagem de Release ao coordenador às  23:22:22:007 
-O coordenador enviou uma mensagem de Grant ao processo 17 às  23:22:22:007 
-O processo 16 enviou uma mensagem de Request ao coordenador às  23:22:22:007 
-O processo 17 enviou uma mensagem de Release ao coordenador às  23:22:23:007 
-O coordenador enviou uma mensagem de Grant ao processo 18 às  23:22:23:007 
-O processo 17 enviou uma mensagem de Request ao coordenador às  23:22:23:007 
-O processo 18 enviou uma mensagem de Release ao coordenador às  23:22:24:007 
-O coordenador enviou uma mensagem de Grant ao processo 19 às  23:22:24:007 
-O processo 18 enviou uma mensagem de Request ao coordenador às  23:22:24:007 
-O processo 19 enviou uma mensagem de Release ao coordenador às  23:22:25:007 
-O coordenador enviou uma mensagem de Grant ao processo 20 às  23:22:25:007 
-O processo 19 enviou uma mensagem de Request ao coordenador às  23:22:25:007 
-O processo 20 enviou uma mensagem de Release ao coordenador às  23:22:26:007 
-O coordenador enviou uma mensagem de Grant ao processo 21 às  23:22:26:007 
-O processo 20 enviou uma mensagem de Request ao coordenador às  23:22:26:007 
-O processo 21 enviou uma mensagem de Release ao coordenador às  23:22:27:007 
-O coordenador enviou uma mensagem de Grant ao processo 22 às  23:22:27:007 
-O processo 21 enviou uma mensagem de Request ao coordenador às  23:22:27:007 
-O processo 22 enviou uma mensagem de Release ao coordenador às  23:22:28:007 
-O coordenador enviou uma mensagem de Grant ao processo 23 às  23:22:28:007 
-O processo 22 enviou uma mensagem de Request ao coordenador às  23:22:28:007 
-O processo 23 enviou uma mensagem de Release ao coordenador às  23:22:29:007 
-O coordenador enviou uma mensagem de Grant ao processo 24 às  23:22:29:007 
-O processo 23 enviou uma mensagem de Request ao coordenador às  23:22:29:007 
-O processo 24 enviou uma mensagem de Release ao coordenador às  23:22:30:007 
-O coordenador enviou uma mensagem de Grant ao processo 25 às  23:22:30:007 
-O processo 24 enviou uma mensagem de Request ao coordenador às  23:22:30:007 
-O processo 25 enviou uma mensagem de Release ao coordenador às  23:22:31:007 
-O coordenador enviou uma mensagem de Grant ao processo 26 às  23:22:31:007 
-O processo 25 enviou uma mensagem de Request ao coordenador às  23:22:31:007 
-O processo 26 enviou uma mensagem de Release ao coordenador às  23:22:32:007 
-O coordenador enviou uma mensagem de Grant ao processo 27 às  23:22:32:007 
-O processo 26 enviou uma mensagem de Request ao coordenador às  23:22:32:007 
-O processo 27 enviou uma mensagem de Release ao coordenador às  23:22:33:007 
-O coordenador enviou uma mensagem de Grant ao processo 28 às  23:22:33:007 
-O processo 27 enviou uma mensagem de Request ao coordenador às  23:22:33:007 
-O processo 28 enviou uma mensagem de Release ao coordenador às  23:22:34:007 
-O coordenador enviou uma mensagem de Grant ao processo 29 às  23:22:34:007 
-O processo 28 enviou uma mensagem de Request ao coordenador às  23:22:34:007 
-O processo 29 enviou uma mensagem de Release ao coordenador às  23:22:35:007 
-O coordenador enviou uma mensagem de Grant ao processo 30 às  23:22:35:007 
-O processo 29 enviou uma mensagem de Request ao coordenador às  23:22:35:007 
-O processo 30 enviou uma mensagem de Release ao coordenador às  23:22:36:007 
-O coordenador enviou uma mensagem de Grant ao processo 31 às  23:22:36:007 
-O processo 30 enviou uma mensagem de Request ao coordenador às  23:22:36:007 
-O processo 31 enviou uma mensagem de Release ao coordenador às  23:22:37:007 
-O coordenador enviou uma mensagem de Grant ao processo 32 às  23:22:37:007 
-O processo 31 enviou uma mensagem de Request ao coordenador às  23:22:37:007 
-O processo 32 enviou uma mensagem de Release ao coordenador às  23:22:38:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:22:38:007 
-O processo 32 enviou uma mensagem de Request ao coordenador às  23:22:38:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:22:39:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:22:39:007 
-O processo 1 enviou uma mensagem de Request ao coordenador às  23:22:39:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:22:40:007 
-O coordenador enviou uma mensagem de Grant ao processo 3 às  23:22:40:007 
-O processo 2 enviou uma mensagem de Request ao coordenador às  23:22:40:007 
-O processo 3 enviou uma mensagem de Release ao coordenador às  23:22:41:007 
-O coordenador enviou uma mensagem de Grant ao processo 4 às  23:22:41:007 
-O processo 3 enviou uma mensagem de Request ao coordenador às  23:22:41:007 
-O processo 4 enviou uma mensagem de Release ao coordenador às  23:22:42:007 
-O coordenador enviou uma mensagem de Grant ao processo 5 às  23:22:42:007 
-O processo 4 enviou uma mensagem de Request ao coordenador às  23:22:42:007 
-O processo 5 enviou uma mensagem de Release ao coordenador às  23:22:43:007 
-O coordenador enviou uma mensagem de Grant ao processo 6 às  23:22:43:007 
-O processo 5 enviou uma mensagem de Request ao coordenador às  23:22:43:007 
-O processo 6 enviou uma mensagem de Release ao coordenador às  23:22:44:007 
-O coordenador enviou uma mensagem de Grant ao processo 7 às  23:22:44:007 
-O processo 6 enviou uma mensagem de Request ao coordenador às  23:22:44:007 
-O processo 7 enviou uma mensagem de Release ao coordenador às  23:22:45:007 
-O coordenador enviou uma mensagem de Grant ao processo 8 às  23:22:45:007 
-O processo 7 enviou uma mensagem de Request ao coordenador às  23:22:45:007 
-O processo 8 enviou uma mensagem de Release ao coordenador às  23:22:46:007 
-O coordenador enviou uma mensagem de Grant ao processo 9 às  23:22:46:007 
-O processo 8 enviou uma mensagem de Request ao coordenador às  23:22:46:007 
-O processo 9 enviou uma mensagem de Release ao coordenador às  23:22:47:007 
-O coordenador enviou uma mensagem de Grant ao processo 10 às  23:22:47:007 
-O processo 9 enviou uma mensagem de Request ao coordenador às  23:22:47:007 
-O processo 10 enviou uma mensagem de Release ao coordenador às  23:22:48:007 
-O coordenador enviou uma mensagem de Grant ao processo 11 às  23:22:48:007 
-O processo 10 enviou uma mensagem de Request ao coordenador às  23:22:48:007 
-O processo 11 enviou uma mensagem de Release ao coordenador às  23:22:49:007 
-O coordenador enviou uma mensagem de Grant ao processo 12 às  23:22:49:007 
-O processo 11 enviou uma mensagem de Request ao coordenador às  23:22:49:007 
-O processo 12 enviou uma mensagem de Release ao coordenador às  23:22:50:007 
-O coordenador enviou uma mensagem de Grant ao processo 13 às  23:22:50:007 
-O processo 12 enviou uma mensagem de Request ao coordenador às  23:22:50:007 
-O processo 13 enviou uma mensagem de Release ao coordenador às  23:22:51:007 
-O coordenador enviou uma mensagem de Grant ao processo 14 às  23:22:51:007 
-O processo 13 enviou uma mensagem de Request ao coordenador às  23:22:51:007 
-O processo 14 enviou uma mensagem de Release ao coordenador às  23:22:52:007 
-O coordenador enviou uma mensagem de Grant ao processo 15 às  23:22:52:007 
-O processo 14 enviou uma mensagem de Request ao coordenador às  23:22:52:007 
-O processo 15 enviou uma mensagem de Release ao coordenador às  23:22:53:007 
-O coordenador enviou uma mensagem de Grant ao processo 16 às  23:22:53:007 
-O processo 15 enviou uma mensagem de Request ao coordenador às  23:22:53:007 
-O processo 16 enviou uma mensagem de Release ao coordenador às  23:22:54:007 
-O coordenador enviou uma mensagem de Grant ao processo 17 às  23:22:54:007 
-O processo 16 enviou uma mensagem de Request ao coordenador às  23:22:54:007 
-O processo 17 enviou uma mensagem de Release ao coordenador às  23:22:55:007 
-O coordenador enviou uma mensagem de Grant ao processo 18 às  23:22:55:007 
-O processo 17 enviou uma mensagem de Request ao coordenador às  23:22:55:007 
-O processo 18 enviou uma mensagem de Release ao coordenador às  23:22:56:007 
-O coordenador enviou uma mensagem de Grant ao processo 19 às  23:22:56:007 
-O processo 18 enviou uma mensagem de Request ao coordenador às  23:22:56:007 
-O processo 19 enviou uma mensagem de Release ao coordenador às  23:22:57:007 
-O coordenador enviou uma mensagem de Grant ao processo 20 às  23:22:57:007 
-O processo 19 enviou uma mensagem de Request ao coordenador às  23:22:57:007 
-O processo 20 enviou uma mensagem de Release ao coordenador às  23:22:58:007 
-O coordenador enviou uma mensagem de Grant ao processo 21 às  23:22:58:007 
-O processo 20 enviou uma mensagem de Request ao coordenador às  23:22:58:007 
-O processo 21 enviou uma mensagem de Release ao coordenador às  23:22:59:007 
-O coordenador enviou uma mensagem de Grant ao processo 22 às  23:22:59:007 
-O processo 21 enviou uma mensagem de Request ao coordenador às  23:22:59:007 
-O processo 22 enviou uma mensagem de Release ao coordenador às  23:23:00:007 
-O coordenador enviou uma mensagem de Grant ao processo 23 às  23:23:00:007 
-O processo 22 enviou uma mensagem de Request ao coordenador às  23:23:00:007 
-O processo 23 enviou uma mensagem de Release ao coordenador às  23:23:01:007 
-O coordenador enviou uma mensagem de Grant ao processo 24 às  23:23:01:007 
-O processo 23 enviou uma mensagem de Request ao coordenador às  23:23:01:007 
-O processo 24 enviou uma mensagem de Release ao coordenador às  23:23:02:007 
-O coordenador enviou uma mensagem de Grant ao processo 25 às  23:23:02:007 
-O processo 24 enviou uma mensagem de Request ao coordenador às  23:23:02:007 
-O processo 25 enviou uma mensagem de Release ao coordenador às  23:23:03:007 
-O coordenador enviou uma mensagem de Grant ao processo 26 às  23:23:03:007 
-O processo 25 enviou uma mensagem de Request ao coordenador às  23:23:03:007 
-O processo 26 enviou uma mensagem de Release ao coordenador às  23:23:04:007 
-O coordenador enviou uma mensagem de Grant ao processo 27 às  23:23:04:007 
-O processo 26 enviou uma mensagem de Request ao coordenador às  23:23:04:007 
-O processo 27 enviou uma mensagem de Release ao coordenador às  23:23:05:007 
-O coordenador enviou uma mensagem de Grant ao processo 28 às  23:23:05:007 
-O processo 27 enviou uma mensagem de Request ao coordenador às  23:23:05:007 
-O processo 28 enviou uma mensagem de Release ao coordenador às  23:23:06:007 
-O coordenador enviou uma mensagem de Grant ao processo 29 às  23:23:06:007 
-O processo 28 enviou uma mensagem de Request ao coordenador às  23:23:06:007 
-O processo 29 enviou uma mensagem de Release ao coordenador às  23:23:07:007 
-O coordenador enviou uma mensagem de Grant ao processo 30 às  23:23:07:007 
-O processo 29 enviou uma mensagem de Request ao coordenador às  23:23:07:007 
-O processo 30 enviou uma mensagem de Release ao coordenador às  23:23:08:007 
-O coordenador enviou uma mensagem de Grant ao processo 31 às  23:23:08:007 
-O processo 30 enviou uma mensagem de Request ao coordenador às  23:23:08:007 
-O processo 31 enviou uma mensagem de Release ao coordenador às  23:23:09:007 
-O coordenador enviou uma mensagem de Grant ao processo 32 às  23:23:09:007 
-O processo 31 enviou uma mensagem de Request ao coordenador às  23:23:09:007 
-O processo 32 enviou uma mensagem de Release ao coordenador às  23:23:10:007 
-O coordenador enviou uma mensagem de Grant ao processo 1 às  23:23:10:007 
-O processo 32 enviou uma mensagem de Request ao coordenador às  23:23:10:007 
-O processo 1 enviou uma mensagem de Release ao coordenador às  23:23:11:007 
-O coordenador enviou uma mensagem de Grant ao processo 2 às  23:23:11:007 
-O processo 2 enviou uma mensagem de Release ao coordenador às  23:23:12:007 
-O coordenador enviou uma mensagem de Grant ao processo 3 às  23:23:12:007 
-O processo 3 enviou uma mensagem de Release ao coordenador às  23:23:13:007 
-O coordenador enviou uma mensagem de Grant ao processo 4 às  23:23:13:007 
-O processo 4 enviou uma mensagem de Release ao coordenador às  23:23:14:007 
-O coordenador enviou uma mensagem de Grant ao processo 5 às  23:23:14:007 
-O processo 5 enviou uma mensagem de Release ao coordenador às  23:23:15:007 
-O coordenador enviou uma mensagem de Grant ao processo 6 às  23:23:15:007 
-O processo 6 enviou uma mensagem de Release ao coordenador às  23:23:16:007 
-O coordenador enviou uma mensagem de Grant ao processo 7 às  23:23:16:007 
-O processo 7 enviou uma mensagem de Release ao coordenador às  23:23:17:007 
-O coordenador enviou uma mensagem de Grant ao processo 8 às  23:23:17:007 
-O processo 8 enviou uma mensagem de Release ao coordenador às  23:23:18:007 
-O coordenador enviou uma mensagem de Grant ao processo 9 às  23:23:18:007 
-O processo 9 enviou uma mensagem de Release ao coordenador às  23:23:19:007 
-O coordenador enviou uma mensagem de Grant ao processo 10 às  23:23:19:007 
-O processo 10 enviou uma mensagem de Release ao coordenador às  23:23:20:007 
-O coordenador enviou uma mensagem de Grant ao processo 11 às  23:23:20:007 
-O processo 11 enviou uma mensagem de Release ao coordenador às  23:23:21:007 
-O coordenador enviou uma mensagem de Grant ao processo 12 às  23:23:21:007 
-O processo 12 enviou uma mensagem de Release ao coordenador às  23:23:22:007 
-O coordenador enviou uma mensagem de Grant ao processo 13 às  23:23:22:007 
-O processo 13 enviou uma mensagem de Release ao coordenador às  23:23:23:007 
-O coordenador enviou uma mensagem de Grant ao processo 14 às  23:23:23:007 
-O processo 14 enviou uma mensagem de Release ao coordenador às  23:23:24:007 
-O coordenador enviou uma mensagem de Grant ao processo 15 às  23:23:24:007 
-O processo 15 enviou uma mensagem de Release ao coordenador às  23:23:25:007 
-O coordenador enviou uma mensagem de Grant ao processo 16 às  23:23:25:007 
-O processo 16 enviou uma mensagem de Release ao coordenador às  23:23:26:007 
-O coordenador enviou uma mensagem de Grant ao processo 17 às  23:23:26:007 
-O processo 17 enviou uma mensagem de Release ao coordenador às  23:23:27:007 
-O coordenador enviou uma mensagem de Grant ao processo 18 às  23:23:27:007 
-O processo 18 enviou uma mensagem de Release ao coordenador às  23:23:28:007 
-O coordenador enviou uma mensagem de Grant ao processo 19 às  23:23:28:007 
-O processo 19 enviou uma mensagem de Release ao coordenador às  23:23:29:007 
-O coordenador enviou uma mensagem de Grant ao processo 20 às  23:23:29:007 
-O processo 20 enviou uma mensagem de Release ao coordenador às  23:23:30:007 
-O coordenador enviou uma mensagem de Grant ao processo 21 às  23:23:30:007 
-O processo 21 enviou uma mensagem de Release ao coordenador às  23:23:31:007 
-O coordenador enviou uma mensagem de Grant ao processo 22 às  23:23:31:007 
-O processo 22 enviou uma mensagem de Release ao coordenador às  23:23:32:007 
-O coordenador enviou uma mensagem de Grant ao processo 23 às  23:23:32:007 
-O processo 23 enviou uma mensagem de Release ao coordenador às  23:23:33:007 
-O coordenador enviou uma mensagem de Grant ao processo 24 às  23:23:33:007 
-O processo 24 enviou uma mensagem de Release ao coordenador às  23:23:34:007 
-O coordenador enviou uma mensagem de Grant ao processo 25 às  23:23:34:007 
-O processo 25 enviou uma mensagem de Release ao coordenador às  23:23:35:007 
-O coordenador enviou uma mensagem de Grant ao processo 26 às  23:23:35:007 
-O processo 26 enviou uma mensagem de Release ao coordenador às  23:23:36:007 
-O coordenador enviou uma mensagem de Grant ao processo 27 às  23:23:36:007 
-O processo 27 enviou uma mensagem de Release ao coordenador às  23:23:37:007 
-O coordenador enviou uma mensagem de Grant ao processo 28 às  23:23:37:007 
-O processo 28 enviou uma mensagem de Release ao coordenador às  23:23:38:007 
-O coordenador enviou uma mensagem de Grant ao processo 29 às  23:23:38:007 
-O processo 29 enviou uma mensagem de Release ao coordenador às  23:23:39:007 
-O coordenador enviou uma mensagem de Grant ao processo 30 às  23:23:39:007 
-O processo 30 enviou uma mensagem de Release ao coordenador às  23:23:40:007 
-O coordenador enviou uma mensagem de Grant ao processo 31 às  23:23:40:007 
-O processo 31 enviou uma mensagem de Release ao coordenador às  23:23:41:007 
-O coordenador enviou uma mensagem de Grant ao processo 32 às  23:23:41:007 
-O processo 32 enviou uma mensagem de Release ao coordenador às  23:23:42:007 
+22:07:21:443 - 1 - [R] Request 
+22:07:21:444 - 2 - [R] Request 
+22:07:21:444 - 3 - [R] Request 
+22:07:21:444 - 1 - [S] Grant 
+22:07:21:444 - 4 - [R] Request 
+22:07:21:444 - 5 - [R] Request 
+22:07:21:444 - 6 - [R] Request 
+22:07:21:444 - 7 - [R] Request 
+22:07:21:445 - 8 - [R] Request 
+22:07:21:445 - 9 - [R] Request 
+22:07:21:445 - 10 - [R] Request 
+22:07:21:445 - 11 - [R] Request 
+22:07:21:445 - 12 - [R] Request 
+22:07:21:445 - 13 - [R] Request 
+22:07:21:445 - 14 - [R] Request 
+22:07:21:446 - 15 - [R] Request 
+22:07:21:446 - 16 - [R] Request 
+22:07:21:446 - 17 - [R] Request 
+22:07:21:446 - 18 - [R] Request 
+22:07:21:446 - 19 - [R] Request 
+22:07:21:447 - 20 - [R] Request 
+22:07:21:447 - 21 - [R] Request 
+22:07:21:447 - 22 - [R] Request 
+22:07:21:447 - 23 - [R] Request 
+22:07:21:447 - 24 - [R] Request 
+22:07:21:447 - 25 - [R] Request 
+22:07:21:448 - 26 - [R] Request 
+22:07:21:448 - 27 - [R] Request 
+22:07:21:448 - 28 - [R] Request 
+22:07:21:448 - 29 - [R] Request 
+22:07:21:448 - 30 - [R] Request 
+22:07:21:448 - 31 - [R] Request 
+22:07:21:449 - 32 - [R] Request 
+22:07:22:444 - 1 - [R] Release 
+22:07:22:444 - 2 - [S] Grant 
+22:07:22:444 - 1 - [R] Request 
+22:07:23:445 - 2 - [R] Release 
+22:07:23:445 - 3 - [S] Grant 
+22:07:23:445 - 2 - [R] Request 
+22:07:24:446 - 3 - [R] Release 
+22:07:24:446 - 4 - [S] Grant 
+22:07:24:446 - 3 - [R] Request 
+22:07:25:446 - 4 - [R] Release 
+22:07:25:447 - 5 - [S] Grant 
+22:07:25:447 - 4 - [R] Request 
+22:07:26:447 - 5 - [R] Release 
+22:07:26:447 - 6 - [S] Grant 
+22:07:26:447 - 5 - [R] Request 
+22:07:27:448 - 6 - [R] Release 
+22:07:27:448 - 7 - [S] Grant 
+22:07:27:448 - 6 - [R] Request 
+22:07:28:449 - 7 - [R] Release 
+22:07:28:449 - 8 - [S] Grant 
+22:07:28:449 - 7 - [R] Request 
+22:07:29:449 - 8 - [R] Release 
+22:07:29:449 - 9 - [S] Grant 
+22:07:29:449 - 8 - [R] Request 
+22:07:30:450 - 9 - [R] Release 
+22:07:30:450 - 10 - [S] Grant 
+22:07:30:450 - 9 - [R] Request 
+22:07:31:451 - 10 - [R] Release 
+22:07:31:451 - 11 - [S] Grant 
+22:07:31:451 - 10 - [R] Request 
+22:07:32:451 - 11 - [R] Release 
+22:07:32:451 - 12 - [S] Grant 
+22:07:32:451 - 11 - [R] Request 
+22:07:33:452 - 12 - [R] Release 
+22:07:33:452 - 13 - [S] Grant 
+22:07:33:452 - 12 - [R] Request 
+22:07:34:453 - 13 - [R] Release 
+22:07:34:453 - 14 - [S] Grant 
+22:07:34:453 - 13 - [R] Request 
+22:07:35:453 - 14 - [R] Release 
+22:07:35:453 - 15 - [S] Grant 
+22:07:35:453 - 14 - [R] Request 
+22:07:36:454 - 15 - [R] Release 
+22:07:36:454 - 16 - [S] Grant 
+22:07:36:454 - 15 - [R] Request 
+22:07:37:455 - 16 - [R] Release 
+22:07:37:455 - 17 - [S] Grant 
+22:07:37:455 - 16 - [R] Request 
+22:07:38:455 - 17 - [R] Release 
+22:07:38:455 - 18 - [S] Grant 
+22:07:38:456 - 17 - [R] Request 
+22:07:39:456 - 18 - [R] Release 
+22:07:39:456 - 19 - [S] Grant 
+22:07:39:456 - 18 - [R] Request 
+22:07:40:457 - 19 - [R] Release 
+22:07:40:457 - 20 - [S] Grant 
+22:07:40:465 - 19 - [R] Request 
+22:07:41:465 - 20 - [R] Release 
+22:07:41:466 - 21 - [S] Grant 
+22:07:41:466 - 20 - [R] Request 
+22:07:42:466 - 21 - [R] Release 
+22:07:42:466 - 22 - [S] Grant 
+22:07:42:466 - 21 - [R] Request 
+22:07:43:467 - 22 - [R] Release 
+22:07:43:467 - 23 - [S] Grant 
+22:07:43:467 - 22 - [R] Request 
+22:07:44:467 - 23 - [R] Release 
+22:07:44:467 - 24 - [S] Grant 
+22:07:44:467 - 23 - [R] Request 
+22:07:45:468 - 24 - [R] Release 
+22:07:45:468 - 25 - [S] Grant 
+22:07:45:476 - 24 - [R] Request 
+22:07:46:476 - 25 - [R] Release 
+22:07:46:476 - 26 - [S] Grant 
+22:07:46:476 - 25 - [R] Request 
+22:07:47:477 - 26 - [R] Release 
+22:07:47:477 - 27 - [S] Grant 
+22:07:47:477 - 26 - [R] Request 
+22:07:48:478 - 27 - [R] Release 
+22:07:48:478 - 28 - [S] Grant 
+22:07:48:478 - 27 - [R] Request 
+22:07:49:478 - 28 - [R] Release 
+22:07:49:478 - 29 - [S] Grant 
+22:07:49:478 - 28 - [R] Request 
+22:07:50:479 - 29 - [R] Release 
+22:07:50:479 - 30 - [S] Grant 
+22:07:50:486 - 29 - [R] Request 
+22:07:51:487 - 30 - [R] Release 
+22:07:51:487 - 31 - [S] Grant 
+22:07:51:487 - 30 - [R] Request 
+22:07:52:487 - 31 - [R] Release 
+22:07:52:487 - 32 - [S] Grant 
+22:07:52:488 - 31 - [R] Request 
+22:07:53:488 - 32 - [R] Release 
+22:07:53:488 - 1 - [S] Grant 
+22:07:53:488 - 32 - [R] Request 
+22:07:54:489 - 1 - [R] Release 
+22:07:54:489 - 2 - [S] Grant 
+22:07:54:489 - 1 - [R] Request 
+22:07:55:489 - 2 - [R] Release 
+22:07:55:489 - 3 - [S] Grant 
+22:07:55:490 - 2 - [R] Request 
+22:07:56:490 - 3 - [R] Release 
+22:07:56:490 - 4 - [S] Grant 
+22:07:56:490 - 3 - [R] Request 
+22:07:57:490 - 4 - [R] Release 
+22:07:57:491 - 5 - [S] Grant 
+22:07:57:491 - 4 - [R] Request 
+22:07:58:491 - 5 - [R] Release 
+22:07:58:491 - 6 - [S] Grant 
+22:07:58:491 - 5 - [R] Request 
+22:07:59:492 - 6 - [R] Release 
+22:07:59:492 - 7 - [S] Grant 
+22:07:59:492 - 6 - [R] Request 
+22:08:00:492 - 7 - [R] Release 
+22:08:00:492 - 8 - [S] Grant 
+22:08:00:500 - 7 - [R] Request 
+22:08:01:493 - 8 - [R] Release 
+22:08:01:493 - 9 - [S] Grant 
+22:08:01:493 - 8 - [R] Request 
+22:08:02:494 - 9 - [R] Release 
+22:08:02:494 - 10 - [S] Grant 
+22:08:02:494 - 9 - [R] Request 
+22:08:03:494 - 10 - [R] Release 
+22:08:03:494 - 11 - [S] Grant 
+22:08:03:494 - 10 - [R] Request 
+22:08:04:495 - 11 - [R] Release 
+22:08:04:495 - 12 - [S] Grant 
+22:08:04:495 - 11 - [R] Request 
+22:08:05:495 - 12 - [R] Release 
+22:08:05:496 - 13 - [S] Grant 
+22:08:05:503 - 12 - [R] Request 
+22:08:06:496 - 13 - [R] Release 
+22:08:06:496 - 14 - [S] Grant 
+22:08:06:496 - 13 - [R] Request 
+22:08:07:497 - 14 - [R] Release 
+22:08:07:497 - 15 - [S] Grant 
+22:08:07:497 - 14 - [R] Request 
+22:08:08:497 - 15 - [R] Release 
+22:08:08:497 - 16 - [S] Grant 
+22:08:08:497 - 15 - [R] Request 
+22:08:09:498 - 16 - [R] Release 
+22:08:09:498 - 17 - [S] Grant 
+22:08:09:498 - 16 - [R] Request 
+22:08:10:498 - 17 - [R] Release 
+22:08:10:498 - 18 - [S] Grant 
+22:08:10:506 - 17 - [R] Request 
+22:08:11:507 - 18 - [R] Release 
+22:08:11:507 - 19 - [S] Grant 
+22:08:11:507 - 18 - [R] Request 
+22:08:12:507 - 19 - [R] Release 
+22:08:12:507 - 20 - [S] Grant 
+22:08:12:507 - 19 - [R] Request 
+22:08:13:508 - 20 - [R] Release 
+22:08:13:508 - 21 - [S] Grant 
+22:08:13:508 - 20 - [R] Request 
+22:08:14:508 - 21 - [R] Release 
+22:08:14:509 - 22 - [S] Grant 
+22:08:14:509 - 21 - [R] Request 
+22:08:15:509 - 22 - [R] Release 
+22:08:15:509 - 23 - [S] Grant 
+22:08:15:509 - 22 - [R] Request 
+22:08:16:509 - 23 - [R] Release 
+22:08:16:510 - 24 - [S] Grant 
+22:08:16:510 - 23 - [R] Request 
+22:08:17:510 - 24 - [R] Release 
+22:08:17:510 - 25 - [S] Grant 
+22:08:17:510 - 24 - [R] Request 
+22:08:18:511 - 25 - [R] Release 
+22:08:18:511 - 26 - [S] Grant 
+22:08:18:511 - 25 - [R] Request 
+22:08:19:511 - 26 - [R] Release 
+22:08:19:511 - 27 - [S] Grant 
+22:08:19:511 - 26 - [R] Request 
+22:08:20:512 - 27 - [R] Release 
+22:08:20:512 - 28 - [S] Grant 
+22:08:20:520 - 27 - [R] Request 
+22:08:21:512 - 28 - [R] Release 
+22:08:21:513 - 29 - [S] Grant 
+22:08:21:513 - 28 - [R] Request 
+22:08:22:513 - 29 - [R] Release 
+22:08:22:513 - 30 - [S] Grant 
+22:08:22:513 - 29 - [R] Request 
+22:08:23:514 - 30 - [R] Release 
+22:08:23:514 - 31 - [S] Grant 
+22:08:23:514 - 30 - [R] Request 
+22:08:24:514 - 31 - [R] Release 
+22:08:24:514 - 32 - [S] Grant 
+22:08:24:514 - 31 - [R] Request 
+22:08:25:515 - 32 - [R] Release 
+22:08:25:515 - 1 - [S] Grant 
+22:08:25:523 - 32 - [R] Request 
+22:08:26:515 - 1 - [R] Release 
+22:08:26:515 - 2 - [S] Grant 
+22:08:26:515 - 1 - [R] Request 
+22:08:27:516 - 2 - [R] Release 
+22:08:27:516 - 3 - [S] Grant 
+22:08:27:516 - 2 - [R] Request 
+22:08:28:516 - 3 - [R] Release 
+22:08:28:516 - 4 - [S] Grant 
+22:08:28:517 - 3 - [R] Request 
+22:08:29:517 - 4 - [R] Release 
+22:08:29:517 - 5 - [S] Grant 
+22:08:29:517 - 4 - [R] Request 
+22:08:30:518 - 5 - [R] Release 
+22:08:30:518 - 6 - [S] Grant 
+22:08:30:526 - 5 - [R] Request 
+22:08:31:518 - 6 - [R] Release 
+22:08:31:518 - 7 - [S] Grant 
+22:08:31:518 - 6 - [R] Request 
+22:08:32:519 - 7 - [R] Release 
+22:08:32:519 - 8 - [S] Grant 
+22:08:32:519 - 7 - [R] Request 
+22:08:33:519 - 8 - [R] Release 
+22:08:33:519 - 9 - [S] Grant 
+22:08:33:519 - 8 - [R] Request 
+22:08:34:520 - 9 - [R] Release 
+22:08:34:520 - 10 - [S] Grant 
+22:08:34:520 - 9 - [R] Request 
+22:08:35:520 - 10 - [R] Release 
+22:08:35:520 - 11 - [S] Grant 
+22:08:35:528 - 10 - [R] Request 
+22:08:36:521 - 11 - [R] Release 
+22:08:36:521 - 12 - [S] Grant 
+22:08:36:521 - 11 - [R] Request 
+22:08:37:521 - 12 - [R] Release 
+22:08:37:522 - 13 - [S] Grant 
+22:08:37:522 - 12 - [R] Request 
+22:08:38:522 - 13 - [R] Release 
+22:08:38:522 - 14 - [S] Grant 
+22:08:38:522 - 13 - [R] Request 
+22:08:39:523 - 14 - [R] Release 
+22:08:39:523 - 15 - [S] Grant 
+22:08:39:523 - 14 - [R] Request 
+22:08:40:523 - 15 - [R] Release 
+22:08:40:523 - 16 - [S] Grant 
+22:08:40:531 - 15 - [R] Request 
+22:08:41:524 - 16 - [R] Release 
+22:08:41:524 - 17 - [S] Grant 
+22:08:41:524 - 16 - [R] Request 
+22:08:42:524 - 17 - [R] Release 
+22:08:42:525 - 18 - [S] Grant 
+22:08:42:525 - 17 - [R] Request 
+22:08:43:525 - 18 - [R] Release 
+22:08:43:525 - 19 - [S] Grant 
+22:08:43:525 - 18 - [R] Request 
+22:08:44:526 - 19 - [R] Release 
+22:08:44:526 - 20 - [S] Grant 
+22:08:44:526 - 19 - [R] Request 
+22:08:45:526 - 20 - [R] Release 
+22:08:45:526 - 21 - [S] Grant 
+22:08:45:526 - 20 - [R] Request 
+22:08:46:526 - 21 - [R] Release 
+22:08:46:527 - 22 - [S] Grant 
+22:08:46:527 - 21 - [R] Request 
+22:08:47:527 - 22 - [R] Release 
+22:08:47:527 - 23 - [S] Grant 
+22:08:47:527 - 22 - [R] Request 
+22:08:48:528 - 23 - [R] Release 
+22:08:48:528 - 24 - [S] Grant 
+22:08:48:528 - 23 - [R] Request 
+22:08:49:528 - 24 - [R] Release 
+22:08:49:528 - 25 - [S] Grant 
+22:08:49:528 - 24 - [R] Request 
+22:08:50:529 - 25 - [R] Release 
+22:08:50:529 - 26 - [S] Grant 
+22:08:50:537 - 25 - [R] Request 
+22:08:51:529 - 26 - [R] Release 
+22:08:51:530 - 27 - [S] Grant 
+22:08:51:530 - 26 - [R] Request 
+22:08:52:530 - 27 - [R] Release 
+22:08:52:530 - 28 - [S] Grant 
+22:08:52:530 - 27 - [R] Request 
+22:08:53:530 - 28 - [R] Release 
+22:08:53:530 - 29 - [S] Grant 
+22:08:53:530 - 28 - [R] Request 
+22:08:54:531 - 29 - [R] Release 
+22:08:54:531 - 30 - [S] Grant 
+22:08:54:531 - 29 - [R] Request 
+22:08:55:531 - 30 - [R] Release 
+22:08:55:532 - 31 - [S] Grant 
+22:08:55:539 - 30 - [R] Request 
+22:08:56:532 - 31 - [R] Release 
+22:08:56:532 - 32 - [S] Grant 
+22:08:56:532 - 31 - [R] Request 
+22:08:57:533 - 32 - [R] Release 
+22:08:57:533 - 1 - [S] Grant 
+22:08:57:533 - 32 - [R] Request 
+22:08:58:533 - 1 - [R] Release 
+22:08:58:533 - 2 - [S] Grant 
+22:08:58:533 - 1 - [R] Request 
+22:08:59:534 - 2 - [R] Release 
+22:08:59:534 - 3 - [S] Grant 
+22:08:59:534 - 2 - [R] Request 
+22:09:00:534 - 3 - [R] Release 
+22:09:00:534 - 4 - [S] Grant 
+22:09:00:542 - 3 - [R] Request 
+22:09:01:535 - 4 - [R] Release 
+22:09:01:535 - 5 - [S] Grant 
+22:09:01:535 - 4 - [R] Request 
+22:09:02:535 - 5 - [R] Release 
+22:09:02:536 - 6 - [S] Grant 
+22:09:02:536 - 5 - [R] Request 
+22:09:03:536 - 6 - [R] Release 
+22:09:03:536 - 7 - [S] Grant 
+22:09:03:536 - 6 - [R] Request 
+22:09:04:537 - 7 - [R] Release 
+22:09:04:537 - 8 - [S] Grant 
+22:09:04:537 - 7 - [R] Request 
+22:09:05:537 - 8 - [R] Release 
+22:09:05:537 - 9 - [S] Grant 
+22:09:05:545 - 8 - [R] Request 
+22:09:06:538 - 9 - [R] Release 
+22:09:06:538 - 10 - [S] Grant 
+22:09:06:538 - 9 - [R] Request 
+22:09:07:538 - 10 - [R] Release 
+22:09:07:539 - 11 - [S] Grant 
+22:09:07:539 - 10 - [R] Request 
+22:09:08:539 - 11 - [R] Release 
+22:09:08:539 - 12 - [S] Grant 
+22:09:08:539 - 11 - [R] Request 
+22:09:09:540 - 12 - [R] Release 
+22:09:09:540 - 13 - [S] Grant 
+22:09:09:540 - 12 - [R] Request 
+22:09:10:540 - 13 - [R] Release 
+22:09:10:540 - 14 - [S] Grant 
+22:09:10:548 - 13 - [R] Request 
+22:09:11:541 - 14 - [R] Release 
+22:09:11:541 - 15 - [S] Grant 
+22:09:11:541 - 14 - [R] Request 
+22:09:12:541 - 15 - [R] Release 
+22:09:12:541 - 16 - [S] Grant 
+22:09:12:541 - 15 - [R] Request 
+22:09:13:542 - 16 - [R] Release 
+22:09:13:542 - 17 - [S] Grant 
+22:09:13:542 - 16 - [R] Request 
+22:09:14:542 - 17 - [R] Release 
+22:09:14:543 - 18 - [S] Grant 
+22:09:14:543 - 17 - [R] Request 
+22:09:15:543 - 18 - [R] Release 
+22:09:15:543 - 19 - [S] Grant 
+22:09:15:543 - 18 - [R] Request 
+22:09:16:543 - 19 - [R] Release 
+22:09:16:544 - 20 - [S] Grant 
+22:09:16:544 - 19 - [R] Request 
+22:09:17:544 - 20 - [R] Release 
+22:09:17:544 - 21 - [S] Grant 
+22:09:17:544 - 20 - [R] Request 
+22:09:18:544 - 21 - [R] Release 
+22:09:18:545 - 22 - [S] Grant 
+22:09:18:545 - 21 - [R] Request 
+22:09:19:545 - 22 - [R] Release 
+22:09:19:545 - 23 - [S] Grant 
+22:09:19:545 - 22 - [R] Request 
+22:09:20:545 - 23 - [R] Release 
+22:09:20:546 - 24 - [S] Grant 
+22:09:20:546 - 23 - [R] Request 
+22:09:21:546 - 24 - [R] Release 
+22:09:21:546 - 25 - [S] Grant 
+22:09:21:546 - 24 - [R] Request 
+22:09:22:547 - 25 - [R] Release 
+22:09:22:547 - 26 - [S] Grant 
+22:09:22:547 - 25 - [R] Request 
+22:09:23:547 - 26 - [R] Release 
+22:09:23:547 - 27 - [S] Grant 
+22:09:23:547 - 26 - [R] Request 
+22:09:24:548 - 27 - [R] Release 
+22:09:24:548 - 28 - [S] Grant 
+22:09:24:548 - 27 - [R] Request 
+22:09:25:548 - 28 - [R] Release 
+22:09:25:549 - 29 - [S] Grant 
+22:09:25:549 - 28 - [R] Request 
+22:09:26:549 - 29 - [R] Release 
+22:09:26:549 - 30 - [S] Grant 
+22:09:26:549 - 29 - [R] Request 
+22:09:27:549 - 30 - [R] Release 
+22:09:27:550 - 31 - [S] Grant 
+22:09:27:550 - 30 - [R] Request 
+22:09:28:550 - 31 - [R] Release 
+22:09:28:550 - 32 - [S] Grant 
+22:09:28:550 - 31 - [R] Request 
+22:09:29:551 - 32 - [R] Release 
+22:09:29:551 - 1 - [S] Grant 
+22:09:29:551 - 32 - [R] Request 
+22:09:30:551 - 1 - [R] Release 
+22:09:30:552 - 2 - [S] Grant 
+22:09:31:552 - 2 - [R] Release 
+22:09:31:552 - 3 - [S] Grant 
+22:09:32:553 - 3 - [R] Release 
+22:09:32:553 - 4 - [S] Grant 
+22:09:33:553 - 4 - [R] Release 
+22:09:33:553 - 5 - [S] Grant 
+22:09:34:554 - 5 - [R] Release 
+22:09:34:554 - 6 - [S] Grant 
+22:09:35:554 - 6 - [R] Release 
+22:09:35:555 - 7 - [S] Grant 
+22:09:36:555 - 7 - [R] Release 
+22:09:36:555 - 8 - [S] Grant 
+22:09:37:556 - 8 - [R] Release 
+22:09:37:556 - 9 - [S] Grant 
+22:09:38:556 - 9 - [R] Release 
+22:09:38:557 - 10 - [S] Grant 
+22:09:39:557 - 10 - [R] Release 
+22:09:39:557 - 11 - [S] Grant 
+22:09:40:558 - 11 - [R] Release 
+22:09:40:558 - 12 - [S] Grant 
+22:09:41:558 - 12 - [R] Release 
+22:09:41:558 - 13 - [S] Grant 
+22:09:42:559 - 13 - [R] Release 
+22:09:42:559 - 14 - [S] Grant 
+22:09:43:559 - 14 - [R] Release 
+22:09:43:559 - 15 - [S] Grant 
+22:09:44:560 - 15 - [R] Release 
+22:09:44:560 - 16 - [S] Grant 
+22:09:45:568 - 16 - [R] Release 
+22:09:45:568 - 17 - [S] Grant 
+22:09:46:568 - 17 - [R] Release 
+22:09:46:569 - 18 - [S] Grant 
+22:09:47:569 - 18 - [R] Release 
+22:09:47:569 - 19 - [S] Grant 
+22:09:48:570 - 19 - [R] Release 
+22:09:48:570 - 20 - [S] Grant 
+22:09:49:570 - 20 - [R] Release 
+22:09:49:571 - 21 - [S] Grant 
+22:09:50:571 - 21 - [R] Release 
+22:09:50:571 - 22 - [S] Grant 
+22:09:51:572 - 22 - [R] Release 
+22:09:51:572 - 23 - [S] Grant 
+22:09:52:572 - 23 - [R] Release 
+22:09:52:572 - 24 - [S] Grant 
+22:09:53:573 - 24 - [R] Release 
+22:09:53:573 - 25 - [S] Grant 
+22:09:54:573 - 25 - [R] Release 
+22:09:54:573 - 26 - [S] Grant 
+22:09:55:574 - 26 - [R] Release 
+22:09:55:574 - 27 - [S] Grant 
+22:09:56:574 - 27 - [R] Release 
+22:09:56:575 - 28 - [S] Grant 
+22:09:57:575 - 28 - [R] Release 
+22:09:57:575 - 29 - [S] Grant 
+22:09:58:575 - 29 - [R] Release 
+22:09:58:576 - 30 - [S] Grant 
+22:09:59:576 - 30 - [R] Release 
+22:09:59:576 - 31 - [S] Grant 
+22:10:00:577 - 31 - [R] Release 
+22:10:00:577 - 32 - [S] Grant 
+22:10:01:577 - 32 - [R] Release 
