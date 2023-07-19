@@ -199,10 +199,10 @@ void *grant_send(node ** queue){
                 client_addr.sin_port = htons(sockets_ports[id]);
                 client_addr.sin_addr.s_addr = inet_addr("127.0.0.1");
                 while (atomic_flag_test_and_set(&lock));
+                sendto(descriptor, coordinator_message, strlen(coordinator_message), 0, (struct sockaddr*)&client_addr, client_struct_length);
                 while (atomic_flag_test_and_set(&lock3));
                 write_log(2, id);
                 atomic_flag_clear(&lock3);
-                sendto(descriptor, coordinator_message, strlen(coordinator_message), 0, (struct sockaddr*)&client_addr, client_struct_length);
             }
         }
     printf("Grant encerrado\n");

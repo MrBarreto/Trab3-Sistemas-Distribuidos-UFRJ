@@ -29,7 +29,7 @@ def validate(var):
 
     print("Log file was successfully validated")
 
-logs = ["log2.txt", "log4.txt", "log8.txt", "log16.txt", "log32.txt"]
+logs = ["log2.txt","log4.txt", "log8.txt", "log16.txt", "log32.txt"]
 for archive in logs:
     print(f"Validating {archive}")
     validate(archive)
